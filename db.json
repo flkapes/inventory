@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "name": "Tim",
+      "price": "100",
+      "type": "Good",
+      "brand": "Boy",
+      "id": 1
+    },
+    {
+        "name": "Tim2",
+        "price": "99",
+        "type": "Good2",
+        "brand": "Boy2",
+        "id": 2
+    },
+    {
+        "name": "Tim3",
+        "price": "98",
+        "type": "Good3",
+        "brand": "Boy3",
+        "id": 3
+    },
+    {
+        "name": "Tim4",
+        "price": "97",
+        "type": "Good4",
+        "brand": "Boy4",
+        "id": 4
+    }
+  ]
+}
